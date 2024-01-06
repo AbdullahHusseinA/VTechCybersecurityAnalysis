@@ -10,7 +10,9 @@
 
 The VTech Kids' Toy Hacking incident of December 2015 marked a significant cybersecurity breach, where a 21-year-old individual was arrested by UK police. VTech, a company specialising in kid-friendly devices, faced a breach compromising nearly 6.5 million children's profiles and five million adult accounts, exposing sensitive data such as names and addresses.
 
-![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjw36GBdHciMIrgUr0E7KUcvL9rcz_4in0jdx5W5daRPmK9eLo7f1yfSkAlaWmaCsRI60&usqp=CAU)
+![App Screenshot](https://i.imgur.com/26PZNDG.png)
+
+
 ## Technical Analysis:
 The breach exploited several vulnerabilities in VTech's systems, including:
 
